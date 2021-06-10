@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="resolve">Resolve</string>
+    <string name="new_game">New Game</string>
+	<string name="dark">Dark</string>
+	<string name="light">Light</string>
+	<string name="random">Random</string>
+</resources>

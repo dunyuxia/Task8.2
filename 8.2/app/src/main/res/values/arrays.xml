@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="size">
+		<item>4 x 4</item>
+		<item>9 x 9</item>
+	</string-array>
+</resources>
